@@ -1,1 +1,1 @@
-# alura-projects
+# Projetos desenvolvidos durante os cursos da Alura
